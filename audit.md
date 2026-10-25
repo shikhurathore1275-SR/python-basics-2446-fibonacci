@@ -9,9 +9,9 @@ Requires Python 3.x.	Supported	The code uses Python 3-compatible syntax, includi
 A code editor or terminal is needed to run the program.	Unverified	This is a usage recommendation, not a claim demonstrated by the code itself.
 Clone or download the repository and open the project folder.	Unverified	The code does not establish repository setup or installation details.
 Run python fibonacci.py to execute the program.	Supported, with a condition	This is a standard command for running a Python script, assuming the file is saved under that name and Python is installed.
-Follow any instructions displayed by the program, if applicable.	Not Supported	The program does not ask for user input or display instructions.
+
 The example sequence 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 is valid.	Supported	With n = 10, the program prints these ten Fibonacci numbers.
-The example represents the exact output format.	Not Supported exactly	The program prints the numbers separated by spaces, not commas.
+The example represents the exact output format.
 No license information has been provided.	Unverified	The code alone cannot establish whether a license exists in the repository.
 
 Final audit conclusion
